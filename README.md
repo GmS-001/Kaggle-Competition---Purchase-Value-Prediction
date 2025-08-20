@@ -93,6 +93,7 @@ I systematically tackled this using **EDA, feature reduction, advanced models, a
 ---
 
 👤 **Author**: Garvit Man Singh
-📧 Contact: mansinghgarvit@gmail.com 
-⭐ If you find this useful, give it a **star**!
 
+📧 **Contact**: mansinghgarvit@gmail.com 
+
+⭐ If you find this useful, give it a **star**!
